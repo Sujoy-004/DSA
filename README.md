@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sujoy-004/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Sujoy-004/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Sujoy-004/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujoy-004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sujoy-004/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sujoy-004/DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Sujoy-004/DSA/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Sujoy-004/DSA/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sujoy-004/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sujoy-004/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sujoy-004/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
