@@ -3,22 +3,25 @@ class Solution {
         int slow = n;
         int fast = n;
 
-        do{
-            slow = getNext(slow);
-            fast = getNext(getNext(fast));
-        }while(slow != fast);
+        while(fast != 1){
+            slow = sumSqDigits(slow);
+            fast = sumSqDigits(sumSqDigits(fast));
 
-        return slow == 1;
+            if(slow == fast && slow != 1){
+                return false;
+            }
+        }
+        return true;
     }
 
-    private int getNext(int n){
+    private int sumSqDigits(int n){
         int sum = 0;
+        
         while(n > 0){
             int digit = n%10;
             sum += digit*digit;
             n /= 10;
         }
-
         return sum;
     }
 }
