@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sujoy-004/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Sujoy-004/DSA/tree/master/0457-circular-array-loop) |
+| [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujoy-004/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sujoy-004/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sujoy-004/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Sujoy-004/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sujoy-004/DSA/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Sujoy-004/DSA/tree/master/0713-subarray-product-less-than-k) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
