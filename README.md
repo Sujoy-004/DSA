@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sujoy-004/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Sujoy-004/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujoy-004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sujoy-004/DSA/tree/master/0457-circular-array-loop) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujoy-004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujoy-004/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sujoy-004/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sujoy-004/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Sujoy-004/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sujoy-004/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Sujoy-004/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Sujoy-004/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sujoy-004/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sujoy-004/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Sujoy-004/DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Sujoy-004/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sujoy-004/DSA/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujoy-004/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -126,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
