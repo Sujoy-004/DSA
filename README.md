@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sujoy-004/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sujoy-004/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/Sujoy-004/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sujoy-004/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujoy-004/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Sujoy-004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sujoy-004/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sujoy-004/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Sujoy-004/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
