@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sujoy-004/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujoy-004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sujoy-004/DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Sujoy-004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujoy-004/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sujoy-004/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sujoy-004/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Sujoy-004/DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sujoy-004/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sujoy-004/DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Sujoy-004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujoy-004/DSA/tree/master/0560-subarray-sum-equals-k) |
