@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujoy-004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujoy-004/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sujoy-004/DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Sujoy-004/DSA/tree/master/0525-contiguous-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sujoy-004/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sujoy-004/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujoy-004/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/Sujoy-004/DSA/tree/master/0457-circular-array-loop) |
 | [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujoy-004/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujoy-004/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujoy-004/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujoy-004/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sujoy-004/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Sujoy-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujoy-004/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sujoy-004/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Sujoy-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujoy-004/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
