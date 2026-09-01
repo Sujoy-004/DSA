@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sujoy-004/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sujoy-004/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sujoy-004/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Sujoy-004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Sujoy-004/DSA/tree/master/0152-maximum-product-subarray) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sujoy-004/DSA/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 ## Database
 |  |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sujoy-004/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
