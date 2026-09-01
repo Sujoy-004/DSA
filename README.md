@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Sujoy-004/DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Sujoy-004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujoy-004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Sujoy-004/DSA/tree/master/0566-reshape-the-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujoy-004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sujoy-004/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Sujoy-004/DSA/tree/master/0904-fruit-into-baskets) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sujoy-004/DSA/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Sujoy-004/DSA/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 ## Database
 |  |
@@ -243,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sujoy-004/DSA/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Sujoy-004/DSA/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
