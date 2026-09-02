@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sujoy-004/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sujoy-004/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Sujoy-004/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sujoy-004/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sujoy-004/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Sujoy-004/DSA/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sujoy-004/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sujoy-004/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Sujoy-004/DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Sujoy-004/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Sujoy-004/DSA/tree/master/0507-perfect-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sujoy-004/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sujoy-004/DSA/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sujoy-004/DSA/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
