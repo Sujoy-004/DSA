@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sujoy-004/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/Sujoy-004/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Sujoy-004/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Sujoy-004/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sujoy-004/DSA/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sujoy-004/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujoy-004/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -270,5 +271,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sujoy-004/DSA/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Sujoy-004/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Sujoy-004/DSA/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/Sujoy-004/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sujoy-004/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
