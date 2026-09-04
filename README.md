@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sujoy-004/DSA/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Sujoy-004/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Sujoy-004/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Sujoy-004/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Sujoy-004/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sujoy-004/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sujoy-004/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sujoy-004/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Sujoy-004/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Sujoy-004/DSA/tree/master/0867-transpose-matrix) |
 ## Database
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sujoy-004/DSA/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Sujoy-004/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Sujoy-004/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Sujoy-004/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sujoy-004/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sujoy-004/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
