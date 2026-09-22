@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sujoy-004/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sujoy-004/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Sujoy-004/DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujoy-004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 ## Linked List
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sujoy-004/DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Sujoy-004/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Sujoy-004/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Sujoy-004/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sujoy-004/DSA/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujoy-004/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sujoy-004/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sujoy-004/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/Sujoy-004/DSA/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Sujoy-004/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Sujoy-004/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
