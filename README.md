@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sujoy-004/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Sujoy-004/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sujoy-004/DSA/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sujoy-004/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujoy-004/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sujoy-004/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sujoy-004/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sujoy-004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Sujoy-004/DSA/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sujoy-004/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
