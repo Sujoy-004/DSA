@@ -6,20 +6,22 @@ class Solution {
         int minAns = nums[0];
         int total = nums[0];
 
-        for(int i=1; i<nums.length; i++){
-            maxSum = Math.max(nums[i], maxSum + nums[i]);
-            maxAns = Math.max(maxSum, maxAns);
+        for (int i = 1; i < nums.length; i++) {
+            int num = nums[i];
 
-            minSum = Math.min(nums[i], minSum + nums[i]);
-            minAns = Math.min(minSum, minAns);
+            maxSum = Math.max(num, maxSum + num);
+            maxAns = Math.max(maxAns, maxSum);
 
-            total += nums[i];
+            minSum = Math.min(num, minSum + num);
+            minAns = Math.min(minAns, minSum);
+
+            total += num;
         }
 
-        if(maxAns < 0){
+        if (maxAns < 0) {
             return maxAns;
         }
 
-        return Math.max(maxAns, total-minAns);
+        return Math.max(maxAns, total - minAns);
     }
 }
