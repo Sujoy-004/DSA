@@ -1,19 +1,16 @@
 class Solution {
-    public int maximumSum(int[] arr) {
-        int keep = arr[0];
+    public int maximumSum(int[] nums) {
+        int keep = nums[0];
         int delete = 0;
-        int ans = arr[0];
+        int res = nums[0];
 
-        for (int i = 1; i < arr.length; i++) {
+        for(int i = 1; i < nums.length; i++){
             int oldKeep = keep;
-
-            keep = Math.max(arr[i], keep + arr[i]);
-
-            delete = Math.max(oldKeep, delete + arr[i]);
-
-            ans = Math.max(ans, Math.max(keep, delete));
+            keep = Math.max(nums[i], keep + nums[i]);
+            delete = Math.max(oldKeep, delete + nums[i]);
+            res = Math.max(res, Math.max(keep, delete));
         }
 
-        return ans;
+        return res;
     }
 }
