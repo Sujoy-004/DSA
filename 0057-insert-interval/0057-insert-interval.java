@@ -1,66 +1,30 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
-        ArrayList<int[]> list = new ArrayList<>();
+        List<int[]> list = new ArrayList<>();
 
-        if(intervals.length == 0){
-            list.add(newInterval);
-            return list.toArray(new int[list.size()][]);
+        for(int[] interval : intervals){
+            list.add(interval);
         }
+        list.add(newInterval);
 
-        int start, end;
-        boolean inserted = false;
+        list.sort((a, b) -> Integer.compare(a[0], b[0]));
 
-        if(newInterval[0] <= intervals[0][0]){
-            start = newInterval[0];
-            end = newInterval[1];
-            inserted = true;
-        }
-        else{
-            start = intervals[0][0];
-            end = intervals[0][1];
-        }
+        List<int[]> res = new ArrayList<>();
+        int[] curr = list.get(0);
 
-        for(int i = 0; i < intervals.length; i++){
-            if(i == 0 && !inserted) continue;
+        for(int i = 1; i < list.size(); i++){
+            int[] next = list.get(i);
 
-            int inner_start = intervals[i][0];
-            int inner_end = intervals[i][1];
-
-            if(!inserted && newInterval[0] <= inner_start){
-                if(newInterval[0] <= end){
-                    end = Math.max(end, newInterval[1]);
-                }
-                else{
-                    list.add(new int[]{start, end});
-                    start = newInterval[0];
-                    end = newInterval[1];
-                }
-                inserted = true;
-            }
-
-            if(inner_start <= end){
-                end = Math.max(end, inner_end);
+            if(curr[1] >= next[0]){
+                curr[1] = Math.max(curr[1], next[1]);
             }
             else{
-                list.add(new int[]{start, end});
-                start = inner_start;
-                end = inner_end;
+                res.add(curr);
+                curr = next;
             }
         }
+        res.add(curr);
 
-        if(!inserted){
-            if(newInterval[0] <= end){
-                end = Math.max(end, newInterval[1]);
-            }
-            else{
-                list.add(new int[]{start, end});
-                start = newInterval[0];
-                end = newInterval[1];
-            }
-        }
-
-        list.add(new int[]{start, end});
-        return list.toArray(new int[list.size()][]);
+        return res.toArray(new int[res.size()][]);
     }
 }
