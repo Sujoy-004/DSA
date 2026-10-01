@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Sujoy-004/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujoy-004/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Sujoy-004/DSA/tree/master/1094-car-pooling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sujoy-004/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/Sujoy-004/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujoy-004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujoy-004/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sujoy-004/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujoy-004/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Sujoy-004/DSA/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sujoy-004/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sujoy-004/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujoy-004/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Sujoy-004/DSA/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujoy-004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Sujoy-004/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sujoy-004/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sujoy-004/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Sujoy-004/DSA/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/Sujoy-004/DSA/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/Sujoy-004/DSA/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sujoy-004/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1094-car-pooling](https://github.com/Sujoy-004/DSA/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
